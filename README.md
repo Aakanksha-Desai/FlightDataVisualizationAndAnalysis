@@ -8,3 +8,6 @@ Tableau dashboards are developed for visualization of the airline trends such as
 The following are links to the Tableau dashboards:<br>
 Story 1: https://public.tableau.com/views/FlightDataAnalysis_17115863305280/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link <br>
 Delay Analysis Dashboard: https://public.tableau.com/views/FlightDataAnalysis_17115863305280/DelayAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
+
+More information regarding the project can be found in this descriptive report:<br>
+https://github.com/Aakanksha-Desai/FlightDataVisualizationAndAnalysis/blob/ada2f71729ba06420d550046c3941029c0c482a5/Flight%20Delay%20Analysis.pdf
